@@ -18,7 +18,7 @@
 
 [![sdh8694's github stats](https://github-readme-stats.vercel.app/api?username=sdh8694&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sd8694/github-readme-stats)
 
-<i class="devicon-facebook-plain colored"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
