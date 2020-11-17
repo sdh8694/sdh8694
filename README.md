@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Hallym Unv.
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
+-  **Learning :** AI :ai: | Open-Source :fire:	
 -  **Hobbies :** Soccer :soccer: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 
