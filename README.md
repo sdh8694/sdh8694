@@ -1,41 +1,31 @@
-### Hi there 👋 
-### This is Fernando Roldán!
+<h1 align="center"> Hello, I'm Sulthan Mohaideen 👨‍💻 </h1>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+<h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
-
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
-
-#### :computer: Programming languages and tools: 
-<p>
-	
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/sulthannk/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
+<a href="https://twitter.com/SulthanNK"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
+<a href="https://dev.to/sulthannk"><img alt="Dev Community" src="https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk"></a>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Hallym Unv.
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:	
+-  **Hobbies :** Soccer :soccer: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Pronouns :** He/Him/His :innocent:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SulthanNK" alt="SulthanNK" /> </p>
+
+### 📊 Profile stats
+
+[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⭐️ From [SulthanNK](http://www.github.com/SulthanNK)
