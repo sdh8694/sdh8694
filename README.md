@@ -4,8 +4,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Hallym Unv. 🎓
--  **Learning :** AI :: | Open-Source :fire:	
+-  **Working :**  Hallym Univ 🎓
+-  **Learning :** AI 💡 | Deep Learing :fire:	
 -  **Hobbies :** Soccer :soccer: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 
